@@ -8,7 +8,7 @@
    FILE *ptr;
    char new_name[50];
    char a;
-   sprintf(new_name,"%d.txt",index);  //changing the file names
+   sprintf(new_name,"%s_%d.txt",naam,index);
    ptr = fopen(new_name,"r");
    
 
