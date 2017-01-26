@@ -1,3 +1,0 @@
-................Hey this is a project which is a prototype of well established Social Network sites and apps which is entirely done using C.............
-
-It is a part of Software Engineering Lab Project.
