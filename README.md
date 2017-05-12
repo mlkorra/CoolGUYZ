@@ -1,3 +1,23 @@
-................Hey this is a project which is a prototype of well established Social Network sites and apps which is entirely done using C.............
 
-It is a part of Software Engineering Lab Project.
+
+# COOL GUYZ 
+
+A Project written entirely in C for Software Lab Term Project.
+
+Features: 
+
+
+  1. Register
+  2. Login
+  3. NewsFeed
+  4. Edit Profile
+
+
+# Run Program
+ 
+> gcc social.c
+> ./a.out
+
+
+
+Feel Free to Contribute....
