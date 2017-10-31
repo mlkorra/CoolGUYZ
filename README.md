@@ -2,6 +2,10 @@
 
 # COOL GUYZ 
 
+**CS20006**
+
+**Professor** : ***Sudip Mishra***
+
 A Project written entirely in C for Software Lab Term Project.
 
 Features: 
